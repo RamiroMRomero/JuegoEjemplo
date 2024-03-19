@@ -22,6 +22,8 @@ public class JuegoEjemplo {
         System.out.println("Posicion(X,Y)"+ford.getPosX()+" "+ford.getPosY());
         
         escena.jugar();
+        
+        System.out.println("Fin del juego");
     }
     
 }
